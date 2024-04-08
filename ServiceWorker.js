@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-My project-1.0";
+const cacheName = "DefaultCompany-facial game-1.0";
 const contentToCache = [
     "Build/Facial-Game.loader.js",
     "Build/Facial-Game.framework.js",
